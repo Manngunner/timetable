@@ -6,7 +6,7 @@ BOTSGGBASE = "https://discord.bots.gg/api/v1/bots/789202881336311849"
 DBLBASE = "https://discordbotlist.com/api/v1/bots/789202881336311849"
 DBOATSBASE = "https://discord.boats/api/bot/789202881336311849"
 
-# Test
+# Test branch
 
 class BotLists:
     def __init__(self, db):
